@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39183362-d832-4737-a580-4f7129607807" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ecommerce/js/vue/vue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce/js/vue/vue.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aigou-admin-web/src/views/product/Product.vue" beforeDir="false" afterPath="$PROJECT_DIR$/aigou-admin-web/src/views/product/Product.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/list.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="aigou-web-parent" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S2NwDmaE8U5ZUq4PvRJ9CFDyb4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ecommerce/js/vue" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ymsd\aigou-web-parent\ecommerce\js\vue" />
+      <recent name="D:\ymsd\aigou-web-parent\aigou-admin-web\src\views\product" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39183362-d832-4737-a580-4f7129607807" name="Default Changelist" comment="" />
+      <created>1570758427867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570758427867</updated>
+      <workItem from="1570758432164" duration="3275000" />
+      <workItem from="1570763604068" duration="8082000" />
+      <workItem from="1570780368510" duration="594000" />
+      <workItem from="1570786138827" duration="3303000" />
+      <workItem from="1570799002120" duration="278000" />
+      <workItem from="1570806990511" duration="7000" />
+      <workItem from="1570860830524" duration="8270000" />
+      <workItem from="1570883919949" duration="1741000" />
+      <workItem from="1571016222432" duration="2830000" />
+      <workItem from="1571038976738" duration="1269000" />
+      <workItem from="1571049289548" duration="1492000" />
+      <workItem from="1571058936047" duration="1431000" />
+      <workItem from="1571100892987" duration="12339000" />
+      <workItem from="1571198068557" duration="2818000" />
+      <workItem from="1571276515677" duration="11960000" />
+      <workItem from="1571314836003" duration="341000" />
+      <workItem from="1571317416383" duration="3596000" />
+      <workItem from="1571362754318" duration="16677000" />
+      <workItem from="1571457968173" duration="6268000" />
+      <workItem from="1571533130957" duration="7071000" />
+      <workItem from="1571559422216" duration="104000" />
+      <workItem from="1571562433315" duration="3914000" />
+      <workItem from="1571619397362" duration="1420000" />
+      <workItem from="1571628728500" duration="4999000" />
+    </task>
+    <task id="LOCAL-00001" summary="登录">
+      <created>1570789745848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570789745848</updated>
+    </task>
+    <task id="LOCAL-00002" summary="商品品牌和类型的维护">
+      <created>1570876363106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570876363106</updated>
+    </task>
+    <task id="LOCAL-00003" summary="前台">
+      <created>1571042542008</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571042542009</updated>
+    </task>
+    <task id="LOCAL-00004" summary="前台">
+      <created>1571042939649</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571042939649</updated>
+    </task>
+    <task id="LOCAL-00005" summary="logo上传">
+      <created>1571128949406</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1571128949406</updated>
+    </task>
+    <task id="LOCAL-00006" summary="商品管理">
+      <created>1571308208163</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571308208163</updated>
+    </task>
+    <task id="LOCAL-00007" summary="显示属性管理和sku属性管理">
+      <created>1571394999852</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571394999853</updated>
+    </task>
+    <task id="LOCAL-00008" summary="sku">
+      <created>1571559492076</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1571559492076</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="登录" />
+    <MESSAGE value="商品品牌和类型的维护" />
+    <MESSAGE value="前台" />
+    <MESSAGE value="logo上传" />
+    <MESSAGE value="商品管理" />
+    <MESSAGE value="显示属性管理和sku属性管理" />
+    <MESSAGE value="sku" />
+    <option name="LAST_COMMIT_MESSAGE" value="sku" />
+  </component>
+</project>
